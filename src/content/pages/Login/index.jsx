@@ -71,7 +71,7 @@ const Login = () => {
 							<Typography variant='h2' mt={3}>
 								Login
 							</Typography>
-							<Box sx={{
+							<Box sx={{ 
 								mt: 3,	
 								display: 'flex',
 								flexDirection: 'column',
